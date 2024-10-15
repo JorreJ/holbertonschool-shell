@@ -8,3 +8,4 @@
 7-everybody adds permission to the owner, the group owner and the other users, to the file hello
 8-James_Bond sets permissions to the file hello as no permission to owner and group owner and all permissions to other users
 9-John_Doe sets permissions as all permissions for owner, read and execute permissions for group owner and write and execute for other users
+10-mirror_permissions sets permissions of the file hello as the same as olleh
